@@ -8,8 +8,6 @@
 
 #import "Penguin.h"
 
-@implementation Penguin {
-    bool *launched;
-}
+@implementation Penguin
 
 @end
