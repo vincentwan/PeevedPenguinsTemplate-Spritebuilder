@@ -9,7 +9,7 @@
 #import "Penguin.h"
 
 @implementation Penguin {
-    bool launched;
+    bool *launched;
 }
 
 @end
