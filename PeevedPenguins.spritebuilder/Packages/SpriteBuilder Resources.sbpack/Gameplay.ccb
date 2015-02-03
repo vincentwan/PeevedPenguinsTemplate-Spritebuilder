@@ -681,7 +681,7 @@
 									<key>density</key>
 									<real>1</real>
 									<key>dynamic</key>
-									<true/>
+									<false/>
 									<key>elasticity</key>
 									<real>0.30000001192092896</real>
 									<key>friction</key>
@@ -689,40 +689,74 @@
 									<key>points</key>
 									<array>
 										<array>
-											<real>0.0</real>
-											<real>0.0</real>
+											<real>20.682149887084961</real>
+											<real>4.3710861206054688</real>
 										</array>
 										<array>
-											<real>0.0</real>
-											<real>92</real>
+											<real>0.14557738602161407</real>
+											<real>40.785148620605469</real>
 										</array>
 										<array>
-											<real>215</real>
-											<real>92</real>
+											<real>61.567768096923828</real>
+											<real>51.453109741210938</real>
 										</array>
 										<array>
-											<real>215</real>
-											<real>0.0</real>
+											<real>65.384658813476562</real>
+											<real>75.207015991210938</real>
+										</array>
+										<array>
+											<real>96.744010925292969</real>
+											<real>76.4140625</real>
+										</array>
+										<array>
+											<real>215.12081909179688</real>
+											<real>34.296867370605469</real>
+										</array>
+										<array>
+											<real>213.61566162109375</real>
+											<real>1.4453048706054688</real>
 										</array>
 									</array>
 									<key>polygons</key>
 									<array>
 										<array>
 											<array>
-												<real>215</real>
-												<real>0.0</real>
+												<real>215.12081909179688</real>
+												<real>34.296867370605469</real>
 											</array>
 											<array>
-												<real>215</real>
-												<real>92</real>
+												<real>96.744010925292969</real>
+												<real>76.4140625</real>
 											</array>
 											<array>
-												<real>0.0</real>
-												<real>92</real>
+												<real>65.384658813476562</real>
+												<real>75.207015991210938</real>
 											</array>
 											<array>
-												<real>0.0</real>
-												<real>0.0</real>
+												<real>61.567768096923828</real>
+												<real>51.453109741210938</real>
+											</array>
+										</array>
+										<array>
+											<array>
+												<real>61.567768096923828</real>
+												<real>51.453109741210938</real>
+											</array>
+											<array>
+												<real>0.14557738602161407</real>
+												<real>40.785148620605469</real>
+											</array>
+											<array>
+												<real>20.682149887084961</real>
+												<real>4.3710861206054688</real>
+											</array>
+											<array>
+												<real>213.61566162109375</real>
+												<real>1.4453048706054688</real>
+											</array>
+											<array>
+												<real>215.12081909179688</real>
+												<real>34.296867370605469</real>
 											</array>
 										</array>
 									</array>
